@@ -1,0 +1,6 @@
+@MaryWebApi_HostAddress = http://localhost:5157
+
+GET {{MaryWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
